@@ -5,13 +5,6 @@ public class DayOfTheWeekChallenge {
     }
 //🍥🍥[SWITCH-STATEMENT]🍥🍥
     public static void printDayOfWeek(int day) {
-//        if (day < 0 || day > 6) {
-//            System.out.println("Invalid Day!");
-//            return;
-//        }
-
-//        int dayOfTheWeek = day;
-//        int dayWeekend;
 
         //🍥🍥[SWITCH-STATEMENT]🍥🍥 here we can see that we can create a "String" variable and declare a "switch" statement
         String dayOfTheWeek = switch (day) {
