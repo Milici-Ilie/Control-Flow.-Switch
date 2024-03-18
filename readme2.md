@@ -424,7 +424,10 @@ System.out.println(resultText);
 
                                                                                  ❗❗❗ 🍥🍥[SWITCH-STATEMENT]🍥🍥 ❗❗❗
 
-    ## ✅II. subtitlu
+    ## ✅II. -CHALLENGE, practice with the "switch" statement
+              -How to use 'switch' statements in a method with no 'return'/void
+
+[nasaChallenge.java]/[DayOfTheWeekChallenge.java]
 
     ## ✅III. subtitlu
 
