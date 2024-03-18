@@ -416,7 +416,13 @@ System.out.println(resultText);
 
 # 4. Control-Flow.-Switch: Search on GIT-HUB: Control-Flow.-Switch
 
-    ## ✅I. subtitlu
+    ## ✅I. -How to use the Switch statement
+
+-In the Switch Statements we can only use: byte, shot, int, char, String and enum
+-We can't use: long, float, double or boolean
+[Main.java]/[]
+
+                                                                                 ❗❗❗ 🍥🍥[SWITCH-STATEMENT]🍥🍥 ❗❗❗
 
     ## ✅II. subtitlu
 
