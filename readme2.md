@@ -429,6 +429,10 @@ System.out.println(resultText);
 
 [nasaChallenge.java]/[DayOfTheWeekChallenge.java]
 
+              -How to use functions in the "switch"/case statements, Ternary Operators, how to call a method inside of another method, finding the number of days depending on the month and year
+
+[NumberOfDaysInMonth.java]/[]
+
     ## ✅III. subtitlu
 
     ## ✅IV. subtitlu
