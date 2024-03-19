@@ -414,7 +414,7 @@ System.out.println(resultText);
 
 
 
-# 4. Control-Flow.-Switch: Search on GIT-HUB: Control-Flow.-Switch
+# 4. Control-Flow.-Switch: Search on GIT-HUB: Control-Flow.-Switch// FOR-WHILE-etc LOOP
 
     ## ✅I. -How to use the Switch statement
 
@@ -433,9 +433,18 @@ System.out.println(resultText);
 
 [NumberOfDaysInMonth.java]/[]
 
-    ## ✅III. subtitlu
+    ## ✅III. -Loop. While-Loop. 
 
-    ## ✅IV. subtitlu
+-How to automatically calculate the percentage using the LOOP
+-How to increase the index, "i" with a specific amount for every loop
+
+[TheForLoop.java]/[]
+                         
+                                                        ❗❗❗ 🔎🔎[LOOP-WHILE.LOOP]🔎🔎 ❗❗❗
+
+    ## ✅IV. -ThePrimeNumberChallenge. Using the Loop statement
+
+[ThePrimeNumberChallenge.java]
 
     ## ✅V. subtitlu
 
