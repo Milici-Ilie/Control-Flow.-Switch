@@ -440,9 +440,12 @@ System.out.println(resultText);
 
 [TheForLoop.java]/[]
                          
-                                                        ❗❗❗ 🔎🔎[LOOP-WHILE.LOOP]🔎🔎 ❗❗❗
+                                                        ❗❗❗ 🔎🔎[FOR-LOOP-WHILE.LOOP]🔎🔎 ❗❗❗
 
     ## ✅IV. -ThePrimeNumberChallenge. Using the Loop statement
+
+-How to find out how many PRIME numbers are by using a LOOP statement. 
+-How to use the For LOOP
 
 [ThePrimeNumberChallenge.java]
 
