@@ -444,15 +444,39 @@ System.out.println(resultText);
 
     ## ✅IV. -ThePrimeNumberChallenge. Using the Loop statement
 
--How to find out how many PRIME numbers are by using a LOOP statement. 
+-How to find out how many PRIME numbers are by using a LOOP statement.
 -How to use the For LOOP
 
 [ThePrimeNumberChallenge.java]
 
-    ## ✅V. subtitlu
+    ## ✅V. -Challenge. How to use FOR loop to find out the numbers 3 and 5
+            -How to find the divided numbers by both 3 and 5
+            -How to use the DEGUBBER in the InteliJ
+            -To see how to use the Debugger go and check the Section 6, ControlFlow, Lesson: Sum 3 and 5 Challenge and Using IntelliJ's Debugger
+
+//=====================
+Sum 3 and 5 Challenge
+=====================
+
+*Create a for loop using a range of numbers from 1 to 1000 inclusive.
+
+*Sum all the numbers that can be divided by both 3 and 5
+
+*Print out the numbers that have met the above conditions
+
+*break out of the loop once you have found 5 numbers that met the conditions.
+
+*After breaking out of the loop, print the sum of the numbers that met the conditions.
+
+*Note: type all code in the main method
+
+
+[Sum3And5Challenge.java]
+
+                                                        ❗❗❗ 🔎🔎[CHALLENGE]🔎🔎 ❗❗❗
 
     ## ✅VI. subtitlu
-
+        
     ## ✅VII. subtitlu
 
     ## ✅VIII. subtitlu
