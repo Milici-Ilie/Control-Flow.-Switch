@@ -453,6 +453,8 @@ System.out.println(resultText);
             -How to find the divided numbers by both 3 and 5
             -How to use the DEGUBBER in the InteliJ
             -To see how to use the Debugger go and check the Section 6, ControlFlow, Lesson: Sum 3 and 5 Challenge and Using IntelliJ's Debugger
+            
+            -SumOdd, how to find out the our numbers using the FOR Loop, odd/impar
 
 //=====================
 Sum 3 and 5 Challenge
@@ -471,7 +473,7 @@ Sum 3 and 5 Challenge
 *Note: type all code in the main method
 
 
-[Sum3And5Challenge.java]
+[Sum3And5Challenge.java]/[SummOdd.java]
 
                                                         ❗❗❗ 🔎🔎[CHALLENGE]🔎🔎 ❗❗❗
 
