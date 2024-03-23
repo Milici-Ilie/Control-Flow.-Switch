@@ -488,7 +488,11 @@ Sum 3 and 5 Challenge
             -do while LOOP: do { ... } while (expression);
 ❕❕❕❕❕❕❕❗❗❗❗❗NOTE ... the "do WHILE LOOP" is very good to use when we want to create the logic for a password, because we run for the first time, and the user typed it wrong, and we want to ask him again until a certain amount of times that we specifie, 3 or 5 times, etc. ❗❗❗❗❗❗❗❕❕❕❕❕❕❕
 
-[WhileDoWhileLoops.java]
+-How to skip conditions with WHILE LOOP, check [WhileLoopExemple.java]
+
+-How to skip and display some values, let's say the even numbers in a range of array numbers [WhileLoopChallenge.java]
+
+[WhileDoWhileLoops.java]/[WhileLoopExemple.java]/[WhileLoopChallenge.java]
 
                                                         ❗❗❗ 🥃🥃[WHILE-LOOPS]🥃🥃 ❗❗❗
         
