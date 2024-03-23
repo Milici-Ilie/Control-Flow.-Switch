@@ -477,7 +477,20 @@ Sum 3 and 5 Challenge
 
                                                         ❗❗❗ 🔎🔎[CHALLENGE]🔎🔎 ❗❗❗
 
-    ## ✅VI. subtitlu
+    ## ✅VI. -WHILE LOOPS
+
+-WHILE: Continue executing code block until the loop expression becomes false.
+-DO WHILE: Execute the code block once, then continue executing until the loop condition becomes false
+
+=The difference between the normal LOOP and the WHILE loop is this:
+            -normal LOOP: for(init, expression, increment){...}
+            -while LOOP: while(expression){...}
+            -do while LOOP: do { ... } while (expression);
+❕❕❕❕❕❕❕❗❗❗❗❗NOTE ... the "do WHILE LOOP" is very good to use when we want to create the logic for a password, because we run for the first time, and the user typed it wrong, and we want to ask him again until a certain amount of times that we specifie, 3 or 5 times, etc. ❗❗❗❗❗❗❗❕❕❕❕❕❕❕
+
+[WhileDoWhileLoops.java]
+
+                                                        ❗❗❗ 🥃🥃[WHILE-LOOPS]🥃🥃 ❗❗❗
         
     ## ✅VII. subtitlu
 

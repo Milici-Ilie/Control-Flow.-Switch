@@ -1,10 +1,11 @@
 public class SumOdd {
 
     public static void main(String[] args) {
-//        SumOdd sumOdd = new SumOdd();
-//        SumOddRange sumOddRange = sumOdd.new SumOddRange();
-//        int sum = sumOddRange.sumOdd(1, 100);
-//        System.out.println("Suma numerelor impare între 1 și 100 este: " + sum);
+        SumOdd sumOdd = new SumOdd();
+        SumOddRange sumOddRange = sumOdd.new SumOddRange();
+        int sum = sumOddRange.sumOdd(1, 100);
+        System.out.println("Suma numerelor impare între 1 și 100 este: " + sum);
+
 
         //nu stiu cum sa apele acest metode pentru a afisa raspunsul
     }
