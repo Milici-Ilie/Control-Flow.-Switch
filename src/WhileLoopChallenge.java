@@ -8,7 +8,6 @@ public class WhileLoopChallenge {
         int oddCount = 0;
         int totalNumbers = 0; // calculating the sum of all numbers, odd and even and displaying the total of them
 
-        /////////////////////////////////////////////////////////////////////////
 
         while (number <= finishNumbers) {
             number++;
@@ -28,8 +27,6 @@ public class WhileLoopChallenge {
         System.out.println("Total odd numbers found = " + oddCount);
         System.out.println("Total even numbers found = " + evenCount);
         System.out.println("Total numbers found = " + (oddCount + evenCount));
-
-        ////////////////////////////////////////////////////////////////////////////
     }
 
     public static boolean isEvenNumber(int number) {

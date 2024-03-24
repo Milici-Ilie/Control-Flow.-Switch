@@ -492,7 +492,9 @@ Sum 3 and 5 Challenge
 
 -How to skip and display some values, let's say the even numbers in a range of array numbers [WhileLoopChallenge.java]
 
-[WhileDoWhileLoops.java]/[WhileLoopExemple.java]/[WhileLoopChallenge.java]
+-How to find out the last digit/number in a whole number and how to sum those numbers after we separate them, for ex: 123, last numbers 1 - 2 - 3, sum: 6. [DigitSumChallenge.java]
+
+[WhileDoWhileLoops.java]/[WhileLoopExemple.java]/[WhileLoopChallenge.java]/[DigitSumChallenge.java]
 
                                                         ❗❗❗ 🥃🥃[WHILE-LOOPS]🥃🥃 ❗❗❗
         
