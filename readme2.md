@@ -494,6 +494,8 @@ Sum 3 and 5 Challenge
 
 -How to find out the last digit/number in a whole number and how to sum those numbers after we separate them, for ex: 123, last numbers 1 - 2 - 3, sum: 6. [DigitSumChallenge.java]
 
+-Loop theory: FOR loop & WHILE loop: search for IMG "[The While Statement]" in folder "documentation IMAGES" from "JAVA" folder
+
 [WhileDoWhileLoops.java]/[WhileLoopExemple.java]/[WhileLoopChallenge.java]/[DigitSumChallenge.java]
 
                                                         ❗❗❗ 🥃🥃[WHILE-LOOPS]🥃🥃 ❗❗❗
