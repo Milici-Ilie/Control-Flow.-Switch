@@ -496,6 +496,10 @@ Sum 3 and 5 Challenge
 
 -Loop theory: FOR loop & WHILE loop: search for IMG "[The While Statement]" in folder "documentation IMAGES" from "JAVA" folder
 
+-How to use CONTINUE and BREAK in a WHILE loop, a very complex and good exemple: [Continue and Beak in a WHILE loop], in folder "documentation IMAGES" from "JAVA" folder
+
+-How to find out if a number is Palindrome or not, how to take numbers from both right and left and compare the final number [NumberPalindrome.java]
+
 [WhileDoWhileLoops.java]/[WhileLoopExemple.java]/[WhileLoopChallenge.java]/[DigitSumChallenge.java]
 
                                                         ❗❗❗ 🥃🥃[WHILE-LOOPS]🥃🥃 ❗❗❗
