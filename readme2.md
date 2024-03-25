@@ -500,6 +500,8 @@ Sum 3 and 5 Challenge
 
 -How to find out if a number is Palindrome or not, how to take numbers from both right and left and compare the final number [NumberPalindrome.java]
 
+-How to find out the first & last digit and sum them [FirstLastDigitSum.java]. how to extract the first digit, the logic behind
+
 [WhileDoWhileLoops.java]/[WhileLoopExemple.java]/[WhileLoopChallenge.java]/[DigitSumChallenge.java]
 
                                                         ❗❗❗ 🥃🥃[WHILE-LOOPS]🥃🥃 ❗❗❗
