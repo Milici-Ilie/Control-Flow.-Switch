@@ -7,6 +7,8 @@ public class FirstLastDigitSum {
         System.out.println("The sum of the first and the last digit number is " + sumFirstAndLastDigit(0));
         System.out.println("The sum of the first and the last digit number is " + sumFirstAndLastDigit(5));
         System.out.println("The sum of the first and the last digit number is " + sumFirstAndLastDigit(-10));
+        System.out.println("The sum of the first and the last digit number is " + sumFirstAndLastDigit(2345));
+        System.out.println("The sum of the first and the last digit number is " + sumFirstAndLastDigit(6690));
     }
 
     public static int sumFirstAndLastDigit(int number) {
