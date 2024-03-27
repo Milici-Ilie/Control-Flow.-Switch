@@ -505,6 +505,8 @@ Sum 3 and 5 Challenge
 -How to find out the Even Digit numbers and sum/calculate the total of them  using a LOOP. Even number = divisible numbers with 2. === how to check if a number is even or not using an IF statement, and then using a WHILE LOOP to destructuring the number  ===== HOW TO implement this method of 
 finding the even numbers and sum them by using the normal "FOR" LOOP: FOR(int i = number, i > 0, i /= 10){ ... }, etc [EvenDigitSum.java]
 
+-How to find out if in two numbers we have an equal digit, for ex: number1 = 235, number2 = 361, ===> equalNumber = 3; === also how to use variables to store data and boolean values .[SharedDigit.java]
+
 [WhileDoWhileLoops.java]/[WhileLoopExemple.java]/[WhileLoopChallenge.java]/[DigitSumChallenge.java]
 
                                                         ❗❗❗ 🥃🥃[WHILE-LOOPS]🥃🥃 ❗❗❗
