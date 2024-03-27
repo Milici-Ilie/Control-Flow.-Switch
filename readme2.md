@@ -507,6 +507,8 @@ finding the even numbers and sum them by using the normal "FOR" LOOP: FOR(int i 
 
 -How to find out if in two numbers we have an equal digit, for ex: number1 = 235, number2 = 361, ===> equalNumber = 3; === also how to use variables to store data and boolean values .[SharedDigit.java]
 
+-How to extract the last digit from a number and compare 3 last digit numbers to see if 2 of those digits are equal. There are 2 solutions, check for both of them, the second one is more cleaner and straight to the point
+
 [WhileDoWhileLoops.java]/[WhileLoopExemple.java]/[WhileLoopChallenge.java]/[DigitSumChallenge.java]
 
                                                         ❗❗❗ 🥃🥃[WHILE-LOOPS]🥃🥃 ❗❗❗
