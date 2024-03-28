@@ -24,7 +24,9 @@ public class GreatestCommonDivisor {
 
     //////////////////another solution /////////////////
 
-//    int min = first < second ? first : second;
+//    int min = first < second ? first : second; ///// here we are checking to see which of the numbers is the lowest and we compare it in the FOR LOOP to loop all the numbers in the smallest number,
+//    first or second.
+
 //    int gcd = 1;
 //        for (int j = 1; j <= min; j++) {
 //        if (first % j == 0 && second % j == 0) {
