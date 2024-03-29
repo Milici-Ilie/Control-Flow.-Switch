@@ -513,6 +513,8 @@ finding the even numbers and sum them by using the normal "FOR" LOOP: FOR(int i 
 
 -How to find out the perfect number. Meaning that we must find the perfect dividers of a number and, if the sum of those dividers is equal with the number itself than this is a perfect number. [PerfectNumber.java]
 
+-FizzBuzz Challenge [FizzBuzz.java]
+
 [WhileDoWhileLoops.java]/[WhileLoopExemple.java]/[WhileLoopChallenge.java]/[DigitSumChallenge.java]
 
                                                         ❗❗❗ 🥃🥃[WHILE-LOOPS]🥃🥃 ❗❗❗
