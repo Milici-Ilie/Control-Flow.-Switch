@@ -515,6 +515,8 @@ finding the even numbers and sum them by using the normal "FOR" LOOP: FOR(int i 
 
 -FizzBuzz Challenge [FizzBuzz.java]
 
+-How to convert numbers to words, how to return values in revers, how to count numbers, digit count [NumberToWords.java]
+
 [WhileDoWhileLoops.java]/[WhileLoopExemple.java]/[WhileLoopChallenge.java]/[DigitSumChallenge.java]
 
                                                         ❗❗❗ 🥃🥃[WHILE-LOOPS]🥃🥃 ❗❗❗
