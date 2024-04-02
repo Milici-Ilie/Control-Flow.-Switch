@@ -517,6 +517,9 @@ finding the even numbers and sum them by using the normal "FOR" LOOP: FOR(int i 
 
 -How to convert numbers to words, how to return values in revers, how to count numbers, digit count [NumberToWords.java]
 
+-How to use IF ELSE statement, multiple IF statement, IF inside another IF statement, how to declare a variable outside of the method. How to find if 2 values are equals with a total sum, and how to check if they are greater, lower or equal and return true or false depending on some 
+specifications [FourPacker.java] ... very good exemple for IF - IF ELSE
+
 [WhileDoWhileLoops.java]/[WhileLoopExemple.java]/[WhileLoopChallenge.java]/[DigitSumChallenge.java]
 
                                                         ❗❗❗ 🥃🥃[WHILE-LOOPS]🥃🥃 ❗❗❗
