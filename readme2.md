@@ -522,6 +522,16 @@ specifications [FourPacker.java] ... very good exemple for IF - IF ELSE
 
 -How to find out the largest prime from a number [LargestPrime.java]
 
+-How to parse values and read input using System.console(), how to transform String to numbers/values... How to convert Double Strings to double numbers/values ... How to use "Scanner", how to get Input from Console ... How to use "try" and "catch" method... How to use the Scanner method 
+[StringToNumber.java] ... to convert input text, String to numbers we need to use: "Integer.parseInt(variable name)" ... ❗❗❗ How to set parameters that will check the year to not be greater than the current year, and the years of the user to not be greater than 120 (assuming this is  the oldest 
+person), also check if there are some negative numbers/years  [🔰🔰[YEAR SETTINGS]🔰🔰] ... /// ❗❗❗ How to check for bad data, bad numbers, wrong years, numbers with letters, etc. ex: BirthOfYear: 199r [📛📛], correct is: 1993 [💚]
+-How to check if the user enters characters/letters in the number: [StringToNumber.java]. [🔰🔰[YEAR SETTINGS]🔰🔰]]. Lessons [70-71-72]
+
+-How to access the code when using the "System.console().readLine()", type in the Terminal: java src/name of the file. Then will display you text from the console and the "println" if there is one
+
+-How to use Scanner, how to use scanner and taking info/values from the Input User, and how to use Scanner by taking data from some files. Check the IMG from folder: 'documentation IMAGES [Instantiating Scanner]' ... to see in practice check the file project [StringToNumber.java] ... how to use 
+System.in and System.out with scanner
+
 [WhileDoWhileLoops.java]/[WhileLoopExemple.java]/[WhileLoopChallenge.java]/[DigitSumChallenge.java]
 
                                                         ❗❗❗ 🥃🥃[WHILE-LOOPS]🥃🥃 ❗❗❗
