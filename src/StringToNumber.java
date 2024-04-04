@@ -11,17 +11,6 @@ public class StringToNumber {
         } catch (NullPointerException e) {
             System.out.println(getInputFromScanner(currentYear));
         }// here we are using the 'try' & 'catch' method
-
-
-//        String userDateOfBirth = "1993";
-//
-//        int dateOfBirth = Integer.parseInt(userDateOfBirth);// transforming the String to numbers
-//
-//        System.out.println("Age = " + (currentYear - dateOfBirth));
-//
-//        String usersAgeWithPartialYear = "30.5";
-//        double ageWithPartialYear = Double.parseDouble(usersAgeWithPartialYear);//converting double string to double numbers/values
-//        System.out.println("The user says he's " + ageWithPartialYear);
     }
 
     public static String getInputFromConsole(int currentYear) {
@@ -35,12 +24,17 @@ public class StringToNumber {
         return name + " you are " + age + " years old!";
     }
 
+    //////////////////////////////SCANNER method 👇////////////////////////////////
+    //////////////////////////////SCANNER method 👇////////////////////////////////
+    //////////////////////////////SCANNER method 👇////////////////////////////////
+
+
     public static String getInputFromScanner(int currentYear) {
 
         Scanner scanner = new Scanner(System.in);// implementing the "System.in"
 
         System.out.println("Hi, What's your Name? ");// here we are storing the name that the user gives to us and we use in the next line of code
-        String name = scanner.nextLine();
+        String name = scanner.nextLine();// NEXT LINE method ....
 
         System.out.println("Hi " + name + ", Thanks for learning, good luck and dont loose hope!!!");
 
@@ -53,7 +47,7 @@ public class StringToNumber {
             System.out.println("Enter a year of birth >= " + (currentYear - 125) + " and <= " + (currentYear));
             //🔰🔰[YEAR SETTINGS]🔰🔰] 👇👇👇 here we are checking if the user entered a type/wrong year/number in the input
             try {// checking for exceptions
-            age = checkData(currentYear, scanner.nextLine());
+            age = checkData(currentYear, scanner.nextLine());// NEXT LINE method ....
             validDOB = age < 0 ? false : true;
             }catch (NumberFormatException badUserData){//"badUserData" is just variable name that store the information, can be any name that you want
                 System.out.println("Characters not allowed!!! Try again!");

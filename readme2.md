@@ -527,6 +527,10 @@ specifications [FourPacker.java] ... very good exemple for IF - IF ELSE
 person), also check if there are some negative numbers/years  [🔰🔰[YEAR SETTINGS]🔰🔰] ... /// ❗❗❗ How to check for bad data, bad numbers, wrong years, numbers with letters, etc. ex: BirthOfYear: 199r [📛📛], correct is: 1993 [💚]
 -How to check if the user enters characters/letters in the number: [StringToNumber.java]. [🔰🔰[YEAR SETTINGS]🔰🔰]]. Lessons [70-71-72]
 
+-CHALLENGE, how to read the input from the User
+
+-How to take data from the Input user, how to take data from the user ... We must use: "Scanner" este o clasă din Java care este folosită pentru a obține input de la utilizator prin consolă sau din alte surse. and "System.in"
+
 -How to access the code when using the "System.console().readLine()", type in the Terminal: java src/name of the file. Then will display you text from the console and the "println" if there is one
 
 -How to use Scanner, how to use scanner and taking info/values from the Input User, and how to use Scanner by taking data from some files. Check the IMG from folder: 'documentation IMAGES [Instantiating Scanner]' ... to see in practice check the file project [StringToNumber.java] ... how to use 
