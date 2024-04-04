@@ -527,7 +527,7 @@ specifications [FourPacker.java] ... very good exemple for IF - IF ELSE
 person), also check if there are some negative numbers/years  [🔰🔰[YEAR SETTINGS]🔰🔰] ... /// ❗❗❗ How to check for bad data, bad numbers, wrong years, numbers with letters, etc. ex: BirthOfYear: 199r [📛📛], correct is: 1993 [💚]
 -How to check if the user enters characters/letters in the number: [StringToNumber.java]. [🔰🔰[YEAR SETTINGS]🔰🔰]]. Lessons [70-71-72]
 
--CHALLENGE, how to read the input from the User
+-CHALLENGE, how to read the input from the User, how to store more numbers from the user and at the end displaying the sum of those numbers // also let's see how to finish this CHALLENGE by also accepting "double" numbers from the user, not only Integers, whole numbers
 
 -How to take data from the Input user, how to take data from the user ... We must use: "Scanner" este o clasă din Java care este folosită pentru a obține input de la utilizator prin consolă sau din alte surse. and "System.in"
 
