@@ -536,6 +536,8 @@ person), also check if there are some negative numbers/years  [🔰🔰[YEAR SET
 -How to use Scanner, how to use scanner and taking info/values from the Input User, and how to use Scanner by taking data from some files. Check the IMG from folder: 'documentation IMAGES [Instantiating Scanner]' ... to see in practice check the file project [StringToNumber.java] ... how to use 
 System.in and System.out with scanner
 
+-How to take data from the input User, how to store that data, how to calculate the sum of multiple numbers that the user entered, how to check if there is a typo/wrong number. How to check the MIN and MAX number in a LOOP where the user entered/INPUT some values [MinMaxChallenge.java]
+
 [WhileDoWhileLoops.java]/[WhileLoopExemple.java]/[WhileLoopChallenge.java]/[DigitSumChallenge.java]
 
                                                         ❗❗❗ 🥃🥃[WHILE-LOOPS]🥃🥃 ❗❗❗
