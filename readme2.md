@@ -538,6 +538,10 @@ System.in and System.out with scanner
 
 -How to take data from the input User, how to store that data, how to calculate the sum of multiple numbers that the user entered, how to check if there is a typo/wrong number. How to check the MIN and MAX number in a LOOP where the user entered/INPUT some values [MinMaxChallenge.java]
 
+-How to calculate the sum from multiple numbers that the user typed and than calculate the average of those numbers[InputCalculator.java]
+
+-How to create an infinite loop/endless loop [MinMaxChallenge.java]/[InputCalculator.java]
+
 [WhileDoWhileLoops.java]/[WhileLoopExemple.java]/[WhileLoopChallenge.java]/[DigitSumChallenge.java]
 
                                                         ❗❗❗ 🥃🥃[WHILE-LOOPS]🥃🥃 ❗❗❗
