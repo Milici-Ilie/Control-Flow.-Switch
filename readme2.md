@@ -542,6 +542,8 @@ System.in and System.out with scanner
 
 -How to create an infinite loop/endless loop [MinMaxChallenge.java]/[InputCalculator.java]
 
+-How to create a calculator that will calculate the area of a wall, for ex: height, width, totalArea and bucketsOfPaint. This calculator need to result the numbers of buckets to paint a wall [PaintJobChallenge.java]/[Lesson 76]
+
 [WhileDoWhileLoops.java]/[WhileLoopExemple.java]/[WhileLoopChallenge.java]/[DigitSumChallenge.java]
 
                                                         ❗❗❗ 🥃🥃[WHILE-LOOPS]🥃🥃 ❗❗❗
